@@ -13,6 +13,8 @@ For building it you only have to use the tool `gradlew`, for listing all the opt
 
 On the list you will see two important commands: `build` and `bootRun`, the first for building and the other for running the aplication.
 
+Example: `./gradlew build`
+
 For checking if it works you can find the next page on <http://localhost:8080>:
 
 ![image](https://user-images.githubusercontent.com/46299278/133663363-de39b281-131e-4c4e-8e35-e32b4c5c18a5.png)
